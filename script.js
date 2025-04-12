@@ -8,8 +8,11 @@ const rightBtn = document.getElementById('rightOption');
 const feedback = document.getElementById('feedback');
 const correctDisplay = document.getElementById('correctCount');
 const wrongDisplay = document.getElementById('wrongCount');
+const correctAnswerText = document.getElementById('correctAnswer');
+const wrongSound = document.getElementById('wrongSound'); // ambil audio element
 
-fetch('./data/kata.json')
+// Ambil data dari JSON
+fetch('data/kata.json')
   .then(response => response.json())
   .then(json => {
     data = json;
@@ -18,12 +21,11 @@ fetch('./data/kata.json')
 
 function loadQuestion() {
   feedback.textContent = '';
+  correctAnswerText.textContent = '';
 
-  // Ambil soal acak
   const randomIndex = Math.floor(Math.random() * data.length);
   currentQuestion = data[randomIndex];
 
-  // Random posisi tombol
   const isLeftCorrect = Math.random() < 0.5;
 
   if (isLeftCorrect) {
@@ -39,12 +41,10 @@ function loadQuestion() {
   }
 }
 
-const correctAnswerText = document.getElementById('correctAnswer'); // Tambahan ini
-
 function handleAnswer(isCorrect) {
   if (isCorrect) {
     feedback.textContent = '✅ Benar!';
-    correctAnswerText.textContent = ''; // Tidak tampilkan apapun kalau benar
+    correctAnswerText.textContent = '';
     correctCount++;
     correctDisplay.textContent = correctCount;
   } else {
@@ -52,9 +52,14 @@ function handleAnswer(isCorrect) {
     correctAnswerText.textContent = `Kata baku yang benar: "${currentQuestion.baku}"`;
     wrongCount++;
     wrongDisplay.textContent = wrongCount;
+
+    // Mainkan suara salah
+    wrongSound.currentTime = 0;
+    wrongSound.play().catch(err => {
+      console.log('Gagal mainkan suara:', err);
+    });
   }
 
-  loadQuestion(); // langsung lanjut ke soal berikutnya
+  // Lanjut ke soal berikutnya
+  setTimeout(loadQuestion, 1000);
 }
-
-  

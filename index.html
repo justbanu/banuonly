@@ -7,8 +7,11 @@
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-  <h1>semangat banz </h1>
-  
+  <h1>semangat banz 800+</h1>
+
+  <!-- Suara ketika jawaban salah -->
+  <audio id="wrongSound" src="salah.mp3" preload="auto"></audio>
+
   <div id="quiz-container">
     <p id="question-text">Pilih kata yang BAKU:</p>
     <div class="options">
@@ -16,9 +19,9 @@
       <button id="rightOption"></button>
     </div>
     <p id="feedback"></p>
-    <p id="correctAnswer"></p> <!-- Tambahan ini -->
+    <p id="correctAnswer"></p>
     <p>✅ Benar: <span id="correctCount">0</span> | ❌ Salah: <span id="wrongCount">0</span></p>
-    
+  </div>
 
   <script src="script.js"></script>
 </body>
