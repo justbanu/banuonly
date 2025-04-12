@@ -64,8 +64,8 @@
     "baku":"katolik"
   },
   {
-    "tidak_baku":"quraisy",
-    "baku":"kuraisy"
+    "tidak_baku":"kuraisy",
+    "baku":"quraisy"
   },
   {
     "tidak_baku":"mahapengasih",
@@ -76,8 +76,8 @@
     "baku":"mahabharata"
   },
   {
-    "tidak_baku":"maha esa",
-    "baku":"mahaesa"
+    "tidak_baku":"mahaesa",
+    "baku":"maha esa"
   },
   {
     "tidak_baku":"maha kuasa",
@@ -88,8 +88,8 @@
     "baku":"november"
   },
   {
-    "tidak_baku":"qur’an",
-    "baku":"quran"
+    "tidak_baku":"quran",
+    "baku":"qur’an"
   },
   {
     "tidak_baku":"rebo",
@@ -300,8 +300,8 @@
     "baku":"akupunktur"
   },
   {
-    "tidak_baku":"akuntan",
-    "baku":"akutan"
+    "tidak_baku":"akutan",
+    "baku":"akuntan"
   },
   {
     "tidak_baku":"alaram",
@@ -372,8 +372,8 @@
     "baku":"amin"
   },
   {
-    "tidak_baku":"amirulhaj",
-    "baku":"amirulhaji"
+    "tidak_baku":"amirulhaji",
+    "baku":"amirulhaj"
   },
   {
     "tidak_baku":"amoniak",
@@ -640,8 +640,8 @@
     "baku":"baptis"
   },
   {
-    "tidak_baku":"bergajul",
-    "baku":"bargajul"
+    "tidak_baku":"bargajul",
+    "baku":"bergajul"
   },
   {
     "tidak_baku":"barigade",
@@ -656,8 +656,8 @@
     "baku":"barzakh"
   },
   {
-    "tidak_baku":"berjanji",
-    "baku":"barzanj"
+    "tidak_baku":"berzanji",
+    "baku":"barzanji"
   },
   {
     "tidak_baku":"batalyon",
@@ -833,7 +833,7 @@
   },
   {
     "tidak_baku":"bombon",
-    "baku":"bobon"
+    "baku":"bonbon"
   },
   {
     "tidak_baku":"bowling",
@@ -897,7 +897,7 @@
   },
   {
     "tidak_baku":"bronkitis",
-    "baku":"bronkhitis"
+    "baku":"bronkitis"
   },
   {
     "tidak_baku":"bhuana",
@@ -1276,12 +1276,12 @@
     "baku":"dus"
   },
   {
-    "tidak_baku":"email",
-    "baku":"e-mail"
+    "tidak_baku":"e-mail",
+    "baku":"email"
   },
   {
     "tidak_baku":"imel",
-    "baku":"e-mail"
+    "baku":"email"
   },
   {
     "tidak_baku":"efektip",
@@ -1640,24 +1640,24 @@
     "baku":"geiser"
   },
   {
-    "tidak_baku":"gladi",
-    "baku":"geladi"
+    "tidak_baku":"geladi",
+    "baku":"gladi"
   },
   {
     "tidak_baku":"geladi resik",
-    "baku":"geladi bersih"
+    "baku":"gladi resik"
   },
   {
     "tidak_baku":"gladibersih",
-    "baku":"geladi bersih"
+    "baku":"gladi bersih"
   },
   {
     "tidak_baku":"belepot",
     "baku":"gelepot"
   },
   {
-    "tidak_baku":"berlepotan",
-    "baku":"gelepotan"
+    "tidak_baku":"belepotan",
+    "baku":"berlepotan"
   },
   {
     "tidak_baku":"glondong",
@@ -1792,8 +1792,8 @@
     "baku":"gurami"
   },
   {
-    "tidak_baku":"guyub",
-    "baku":"guyup"
+    "tidak_baku":"guyup",
+    "baku":"guyub"
   },
   {
     "tidak_baku":"hadist",
@@ -1817,7 +1817,7 @@
   },
   {
     "tidak_baku":"handaitaulan",
-    "baku":"handaitulan"
+    "baku":"handai tolan"
   },
   {
     "tidak_baku":"harafiah",
@@ -1956,8 +1956,8 @@
     "baku":"ilusi"
   },
   {
-    "tidak_baku":"imajinasi",
-    "baku":"imaginasi"
+    "tidak_baku":"imanasi",
+    "baku":"imajinasi"
   },
   {
     "tidak_baku":"himbau",
@@ -2001,11 +2001,7 @@
   },
   {
     "tidak_baku":"hingar-bingar",
-    "baku":"ingar-bingar"
-  },
-  {
-    "tidak_baku":"income",
-    "baku":"inkam"
+    "baku":"ingar bingar"
   },
   {
     "tidak_baku":"ingkarsunah sunah",
@@ -2021,7 +2017,7 @@
   },
   {
     "tidak_baku":"innalillahiwa innalillahi roji’un",
-    "baku":"innalillahi wa innalillahi rajiun"
+    "baku":"inna lillahi wa inna ilaihi rajiun"
   },
   {
     "tidak_baku":"insyaf",
@@ -2037,7 +2033,7 @@
   },
   {
     "tidak_baku":"intelejensi",
-    "baku":"intelegensi"
+    "baku":"inteligensi"
   },
   {
     "tidak_baku":"intelegensi",
@@ -2128,8 +2124,8 @@
     "baku":"isap"
   },
   {
-    "tidak_baku":"israk’",
-    "baku":"isra"
+    "tidak_baku":"isra’",
+    "baku":"israk"
   },
   {
     "tidak_baku":"istighfar",
@@ -2141,7 +2137,7 @@
   },
   {
     "tidak_baku":"istinja’",
-    "baku":"istinjak"
+    "baku":"istinja"
   },
   {
     "tidak_baku":"isteri",
@@ -2220,8 +2216,8 @@
     "baku":"jerapah"
   },
   {
-    "tidak_baku":"jerembap",
-    "baku":"jerembab"
+    "tidak_baku":"jerembab",
+    "baku":"jerembap"
   },
   {
     "tidak_baku":"jerembab",
@@ -2269,11 +2265,11 @@
   },
   {
     "tidak_baku":"yudikatif",
-    "baku":"judikatif"
+    "baku":"yudikatif"
   },
   {
-    "tidak_baku":"yudisial",
-    "baku":"judisial"
+    "tidak_baku":"judisial",
+    "baku":"yudisial"
   },
   {
     "tidak_baku":"yudo",
@@ -2292,12 +2288,8 @@
     "baku":"junior"
   },
   {
-    "tidak_baku":"jungtur",
-    "baku":"junktur"
-  },
-  {
-    "tidak_baku":"yurisdiksi",
-    "baku":"jurisdiksi"
+    "tidak_baku":"jurisdiksi",
+    "baku":"yurisdiksi"
   },
   {
     "tidak_baku":"justeru",
@@ -2349,11 +2341,11 @@
   },
   {
     "tidak_baku":"kaabah",
-    "baku":"kakbah"
+    "baku":"ka’bah"
   },
   {
-    "tidak_baku":"ka’bah",
-    "baku":"kakbah"
+    "tidak_baku":"kakbah",
+    "baku":"ka’bah"
   },
   {
     "tidak_baku":"qalam",
@@ -2576,16 +2568,16 @@
     "baku":"kelengkeng"
   },
   {
-    "tidak_baku":"klenik",
-    "baku":"kelenik"
+    "tidak_baku":"kelenik",
+    "baku":"klenik"
   },
   {
     "tidak_baku":"klop",
     "baku":"kelop"
   },
   {
-    "tidak_baku":"kloter",
-    "baku":"keloter"
+    "tidak_baku":"keloter",
+    "baku":"kloter"
   },
   {
     "tidak_baku":"kluwak",
@@ -2612,12 +2604,8 @@
     "baku":"kendur"
   },
   {
-    "tidak_baku":"knop",
-    "baku":"kenop"
-  },
-  {
-    "tidak_baku":"gepok",
-    "baku":"kepok"
+    "tidak_baku":"kenop",
+    "baku":"knop"
   },
   {
     "tidak_baku":"kram",
@@ -2652,8 +2640,8 @@
     "baku":"kesuma"
   },
   {
-    "tidak_baku":"kusuma",
-    "baku":"kesuma"
+    "tidak_baku":"kesuma",
+    "baku":"kusuma"
   },
   {
     "tidak_baku":"kutilang",
@@ -2684,10 +2672,6 @@
     "baku":"kleptomania"
   },
   {
-    "tidak_baku":"clash",
-    "baku":"kles"
-  },
-  {
     "tidak_baku":"clien",
     "baku":"klien"
   },
@@ -2696,8 +2680,8 @@
     "baku":"klor"
   },
   {
-    "tidak_baku":"klorofil",
-    "baku":"kloropil"
+    "tidak_baku":"kloropil",
+    "baku":"klorofil"
   },
   {
     "tidak_baku":"closet",
@@ -2925,7 +2909,7 @@
   },
   {
     "tidak_baku":"lamtorogung",
-    "baku":"lamtaragung"
+    "baku":"lamtoro gung"
   },
   {
     "tidak_baku":"lasykar",
@@ -2952,8 +2936,8 @@
     "baku":"legalisasi"
   },
   {
-    "tidak_baku":"legenda",
-    "baku":"legende"
+    "tidak_baku":"legende",
+    "baku":"legenda"
   },
   {
     "tidak_baku":"almari",
@@ -3096,8 +3080,8 @@
     "baku":"maizena"
   },
   {
-    "tidak_baku":"makcomblang",
-    "baku":"mak comblang"
+    "tidak_baku":"mak comblang",
+    "baku":"makcomblang"
   },
   {
     "tidak_baku":"maqam",
@@ -3225,7 +3209,7 @@
   },
   {
     "tidak_baku":"mbalelo",
-    "baku":"mbalela"
+    "baku":"mbololo"
   },
   {
     "tidak_baku":"mebeler",
@@ -3280,8 +3264,8 @@
     "baku":"mentol"
   },
   {
-    "tidak_baku":"mencolok",
-    "baku":"menyolok"
+    "tidak_baku":"menyolok",
+    "baku":"mencolok"
   },
   {
     "tidak_baku":"merk",
@@ -3333,7 +3317,7 @@
   },
   {
     "tidak_baku":"mikroba",
-    "baku":"mikrobe"
+    "baku":"mikrob"
   },
   {
     "tidak_baku":"mikro ekonomi",
@@ -3412,10 +3396,6 @@
     "baku":"motto"
   },
   {
-    "tidak_baku":"muamalah",
-    "baku":"muamalat"
-  },
-  {
     "tidak_baku":"asal-muasal",
     "baku":"muasal"
   },
@@ -3429,7 +3409,7 @@
   },
   {
     "tidak_baku":"mubalighoh",
-    "baku":"mubaligat"
+    "baku":"mubaligah"
   },
   {
     "tidak_baku":"muqaddimah",
@@ -3556,8 +3536,8 @@
     "baku":"neokolonialisme"
   },
   {
-    "tidak_baku":"netting",
-    "baku":"neting"
+    "tidak_baku":"neting",
+    "baku":"netting"
   },
   {
     "tidak_baku":"netto",
@@ -3580,16 +3560,16 @@
     "baku":"ninabobo"
   },
   {
-    "tidak_baku":"nomaden",
-    "baku":"nomad"
+    "tidak_baku":"nomad",
+    "baku":"nomaden"
   },
   {
     "tidak_baku":"nomer",
     "baku":"nomor"
   },
   {
-    "tidak_baku":"non indonesia",
-    "baku":"non-indonesia"
+    "tidak_baku":"non-indonesia",
+    "baku":"non indonesia"
   },
   {
     "tidak_baku":"non aktif",
@@ -3672,8 +3652,8 @@
     "baku":"pacat"
   },
   {
-    "tidak_baku":"padri",
-    "baku":"paderi"
+    "tidak_baku":"paderi",
+    "baku":"padri"
   },
   {
     "tidak_baku":"faham",
@@ -3697,7 +3677,7 @@
   },
   {
     "tidak_baku":"panca indra",
-    "baku":"pancaindera"
+    "baku":"pancaindra"
   },
   {
     "tidak_baku":"panitra",
@@ -3718,10 +3698,6 @@
   {
     "tidak_baku":"parasit",
     "baku":"parasut"
-  },
-  {
-    "tidak_baku":"paragoge",
-    "baku":"parogog"
   },
   {
     "tidak_baku":"pasca panen",
@@ -3820,20 +3796,12 @@
     "baku":"pelintir"
   },
   {
-    "tidak_baku":"plonco",
-    "baku":"pelonco"
-  },
-  {
-    "tidak_baku":"plontos",
-    "baku":"pelontos"
+    "tidak_baku":"pelontos",
+    "baku":"plontos"
   },
   {
     "tidak_baku":"pirsawan",
     "baku":"pemirsa"
-  },
-  {
-    "tidak_baku":"empek-empek",
-    "baku":"pempek"
   },
   {
     "tidak_baku":"penasehat",
@@ -3948,14 +3916,6 @@
     "baku":"rama"
   },
   {
-    "tidak_baku":"rangking",
-    "baku":"ranking"
-  },
-  {
-    "tidak_baku":"rengking",
-    "baku":"ranking"
-  },
-  {
     "tidak_baku":"rangsel",
     "baku":"ransel"
   },
@@ -4040,8 +4000,8 @@
     "baku":"reptilia"
   },
   {
-    "tidak_baku":"reservoir",
-    "baku":"reservoar"
+    "tidak_baku":"reservoar",
+    "baku":"reservoir"
   },
   {
     "tidak_baku":"respon",
@@ -4128,8 +4088,8 @@
     "baku":"rontgen"
   },
   {
-    "tidak_baku":"roboh",
-    "baku":"rubuh"
+    "tidak_baku":"rubuh",
+    "baku":"roboh"
   },
   {
     "tidak_baku":"roh",
@@ -4137,7 +4097,7 @@
   },
   {
     "tidak_baku":"rohaniawan",
-    "baku":"ruhaniwan"
+    "baku":"rohaniwan"
   },
   {
     "tidak_baku":"ruku’",
@@ -4177,15 +4137,15 @@
   },
   {
     "tidak_baku":"saka guru guru",
-    "baku":"sakaguru"
+    "baku":"saka guru"
   },
   {
     "tidak_baku":"soko guru",
-    "baku":"sakaguru"
+    "baku":"saka guru"
   },
   {
     "tidak_baku":"sokoguru",
-    "baku":"sakaguru"
+    "baku":"saka guru"
   },
   {
     "tidak_baku":"sakharin",
@@ -4269,7 +4229,7 @@
   },
   {
     "tidak_baku":"satire",
-    "baku":"satir"
+    "baku":"satire"
   },
   {
     "tidak_baku":"saos",
@@ -4340,8 +4300,8 @@
     "baku":"sekte"
   },
   {
-    "tidak_baku":"sekuler",
-    "baku":"sekular"
+    "tidak_baku":"sekular",
+    "baku":"sekuler"
   },
   {
     "tidak_baku":"slendro",
@@ -4364,8 +4324,8 @@
     "baku":"semadi"
   },
   {
-    "tidak_baku":"sembrono",
-    "baku":"sembrana"
+    "tidak_baku":"sembrana",
+    "baku":"sembrono"
   },
   {
     "tidak_baku":"semanda",
@@ -4380,8 +4340,8 @@
     "baku":"sengkalan"
   },
   {
-    "tidak_baku":"sinse",
-    "baku":"sengse"
+    "tidak_baku":"sengse",
+    "baku":"sinse"
   },
   {
     "tidak_baku":"centigram",
@@ -4514,18 +4474,6 @@
   {
     "tidak_baku":"seyogyanya",
     "baku":"seyogianya"
-  },
-  {
-    "tidak_baku":"sping",
-    "baku":"sfing"
-  },
-  {
-    "tidak_baku":"spink",
-    "baku":"sfing"
-  },
-  {
-    "tidak_baku":"spinx",
-    "baku":"sfing"
   },
   {
     "tidak_baku":"siapapun",
@@ -4689,15 +4637,15 @@
   },
   {
     "tidak_baku":"sofball",
-    "baku":"sofbal"
+    "baku":"sofbol"
   },
   {
     "tidak_baku":"softball",
-    "baku":"sofbal"
+    "baku":"sofbol"
   },
   {
     "tidak_baku":"solenoid",
-    "baku":"solenoide"
+    "baku":"solenoid"
   },
   {
     "tidak_baku":"sambrero",
@@ -4772,10 +4720,6 @@
     "baku":"spiritus"
   },
   {
-    "tidak_baku":"speedboat",
-    "baku":"spitbot"
-  },
-  {
     "tidak_baku":"speedbot",
     "baku":"spitbot"
   },
@@ -4792,8 +4736,8 @@
     "baku":"sprin"
   },
   {
-    "tidak_baku":"sreg",
-    "baku":"srek"
+    "tidak_baku":"srek",
+    "baku":"sreg"
   },
   {
     "tidak_baku":"stand",
@@ -4870,10 +4814,6 @@
   {
     "tidak_baku":"strok",
     "baku":"stroke"
-  },
-  {
-    "tidak_baku":"foto studio",
-    "baku":"studio foto"
   },
   {
     "tidak_baku":"sub bab",
