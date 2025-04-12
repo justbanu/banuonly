@@ -9,7 +9,7 @@ const feedback = document.getElementById('feedback');
 const correctDisplay = document.getElementById('correctCount');
 const wrongDisplay = document.getElementById('wrongCount');
 
-fetch('data/kata.json')
+fetch('./data/kata.json')
   .then(response => response.json())
   .then(json => {
     data = json;
