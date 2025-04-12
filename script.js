@@ -21,7 +21,7 @@ fetch('data/kata.json')
 
 function loadQuestion() {
   feedback.textContent = '';
-  correctAnswerText.textContent = '';
+  // Jangan hapus correctAnswerText di sini, biarkan sampai dijawab benar
 
   const randomIndex = Math.floor(Math.random() * data.length);
   currentQuestion = data[randomIndex];
@@ -44,12 +44,16 @@ function loadQuestion() {
 function handleAnswer(isCorrect) {
   if (isCorrect) {
     feedback.textContent = '✅ Benar!';
+    
+    // Kalau jawab benar, baru hapus jawaban benar dari soal sebelumnya
     correctAnswerText.textContent = '';
+
     correctCount++;
     correctDisplay.textContent = correctCount;
   } else {
     feedback.textContent = '❌ Salah!';
     correctAnswerText.textContent = `Kata baku yang benar: "${currentQuestion.baku}"`;
+
     wrongCount++;
     wrongDisplay.textContent = wrongCount;
 
@@ -60,6 +64,5 @@ function handleAnswer(isCorrect) {
     });
   }
 
-  // Lanjut ke soal berikutnya
   setTimeout(loadQuestion, 1000);
 }
